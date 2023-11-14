@@ -1,0 +1,340 @@
+ID,Name,Latitude,Longitude,Glottocode,Name_and_ID_in_source,xd_id,alt_names_by_society,main_focal_year,HRAF_name_ID,HRAF_ID,origLat,origLong,comment,glottocode_comment,region
+B72,!Kung,-20,21.18,juho1239,!Kung (B72),xd1,Kung Bushmen; !Kung (Was Nyae); Was Nyae,1950,San (FX10),FX10,-20,21.18,Original,,Southern Africa
+B296,Kuskowagmut,61.01,-161.55,kusk1241,Kuskowagmut (B296),xd1000,,1850,,,61.01,-161.55,Original,,Subarctic America
+B322,Syilx,49.46,-119.63,sout2963,Okanagan (B322),xd1001,Okanagan,1860,,,49.46,-119.63,Original,,Western Canada
+B335,Round Lake Ojibwa,52.71,-90.62,seve1241,Round Lake Ojibwa (B335),xd1003,Weagamow; North Caribou Lake; Round Lake,1900,,,52.71,-90.62,Original,,Eastern Canada
+B339,North Albany Ojibwa,51.22,-83.1,wini1244,North Albany Ojibwa (B339),xd1004,North Albany,1850,,,51.22,-83.1,Original,,Eastern Canada
+B340,Waswanipi Cree,49.78,-76.64,sout2978,Waswanipi Cree (B340),xd1005,Waswanipi,1900,,,49.78,-76.64,Original,,Eastern Canada
+B341,Wegamon Ojibwa,52.79,-90.64,seve1241,Wegamon Ojibwa (B341),xd1006,Wegamon,1890,,,52.79,-90.64,Original,,Eastern Canada
+B350,Mountain Dene,63.68,-125.37,nort2942,Mountain (B350),xd1007,Mountain; Sahaptin; Sahtu; Sahtu Dene,1800,,,63.68,-125.37,Original,,Subarctic America
+B351,Hän,64.79,-141.2,hann1241,Han (B351),xd1008,Han,1880,,,64.79,-141.2,Original,,Subarctic America
+B352,Hare,67.47,-125,nort2942,Hare (B352),xd1009,K'ahsho Got'ine; Sahtu; Sahtu Dene,1860,,,67.47,-125,Original,,Subarctic America
+B354,Koyukon,66.52,-153.78,koyu1237,Koyukon (B354),xd1010,,1880,,,66.52,-153.78,Original,,Subarctic America
+B360,Waskaganish,51.08,-77.81,sout2978,Rupert House Cree (B360),xd1011,Rupert House Cree; Rupert House,1900,,,51.08,-77.81,Original,,Eastern Canada
+B363,Tutchone,61.24,-138.21,nort2941,Tutchone (B363),xd1012,,1890,,,61.24,-138.21,Original,,Subarctic America
+B364,Holikachuk,63.33,-157.54,holi1241,Holikachuk (B364),xd1013,,1860,,,63.33,-157.54,Original,,Subarctic America
+B369,Norton Sound Inuit,63.98,-160.75,kusk1241,Norton Sound Inuit (B369),xd1014,Norton Sound Eskimo,1870,,,63.98,-160.75,Original,,Subarctic America
+B370,Kobuk Inuit,66.95,-156.94,kobu1239,Kobuk Inuit (B370),xd1015,Kobuk Eskimo,1890,,,66.95,-156.94,Original,,Subarctic America
+B371,Kotzebue Sound Inuit,66.77,-161.53,kotz1238,Kotzebue Sound Inuit (B371),xd1016,Kotzebue Sound,1880,,,66.77,-161.53,Original,,Subarctic America
+B373,Kuujjuarapik,55.32,-77.69,queb1248,Great Whale Inuit (B373),xd1017,Great Whale Eskimo; Great Whale Inuit; Kuujjuarapik; Kuujjuaraapik,1890,,,55.32,-77.69,Original,,Eastern Canada
+B375,Noatak Inuit,68.09,-160,nort2945,Noatak Inuit (B375),xd1018,Nuataaq Inupiaq; Nuataagmiut; Noatak Eskimo,1900,,,68.09,-160,Original,,Subarctic America
+B378,Inuvialuit,69.67,-132.08,sigl1242,Mackenzie Inuit (B378),xd1019,Western Canadian Inuit; Mackenzie Eskimo; Mackenzie Inuit,1910,,,69.96,-132.09,Revised,,Subarctic America
+B379,Sivokamiut Inuit,63.49,-170.31,cent2128,Sivokamiut Inuit (B379),xd1028,Sivokamiut Eskimo,1920,,,63.49,-170.31,Original,"4Oct2018 - Note that while EA society Na11 has always been linked to xd1028, Binford society B379 was originally linked to xd1020 (and, thus, linked to the dialect poin1245 and language nort2943. The update to Glottolog 3.3.2 forced re-mapping of xd1028 from dialect aiwa1238 (which no longer exists) to language cent2128 (always the language-level match for this xd_id).",Subarctic America
+B380,Inupiat,68.41,-166.21,nort2944,Point Hope Inuit (B380),xd1021,Tikigagmiut; Inupiat; Point Hope Inuit; Point Hope Eskimo,1880,,,68.29,-166.62,Revised,"3Oct2018 - Point Hope or Tikiġaġmiut is a sub-dialect of North Slope Inupiatun (nort2944) which is a dialect of the language nort2943. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Subarctic America
+B381,Copper Inuit,68.58,-106.61,copp1244,Copper Inuit (B381),xd1022,Kitlinermiut; Copper Eskimo,1920,Copper Eskimo (ND08),ND08,68.58,-106.61,Original,,Subarctic America
+B382,Utkuhikhalingmiut,66.99,-95.08,nets1241,Utkuhikhalingmiut (B382),xd1023,,1920,,,66.99,-95.18,Revised,,Subarctic America
+B383,Aivilingmiut Inuit,65.16,-88.12,cari1277,Aivilingmiut Inuit (B383),xd1024,Aivilingmiut Eskimo,1880,,,65.16,-88.12,Original,,Subarctic America
+B384,Iglulik Inuit,69.45,-81.51,west2618,Iglulik Inuit (B384),xd1025,Igloolik; Iglulingmiut,1920,,,69.44,-81.51,Revised,,Subarctic America
+B359,Nabesna,63.44,-143.12,uppe1437,Nabesna (B359),xd1026,Upper Tanana Indians,1930,,,63.44,-143.12,Original,,Subarctic America
+B297,Chugach,61.21,-147.61,chug1254,Chugash (B297),xd1027,Chugachigmiut; Chugash,1930,South Alaskan Eskimo (NA10),NA10,61.21,-147.61,Original,"3Oct2018 Assigned to dialect chug1254 (language does not change) to help differentiate this society from the closely related Koniag, also now mapped to language paci1278.",Subarctic America
+B377,Nunamiut,68.18,-151.71,nort2944,Nunamiut Inuit (B377),xd1029,Inland North Alaskan Eskimo; Nunamiut Eskimo,1950,,,68.18,-151.71,Original,"1Oct2018 - mapped to a new dialect (nort2944) of the same language (nort2943). HH: Belongs to language North Alaskan Inupiatun [nort2943] and more specifically to the North Slope Inupiatun [nort2944] dialect. Note that the subdialect to which it was previously mapped (Anaktuvuk Pass, anak1241) does not exist in Glottolog version 3.3.2. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Subarctic America
+B386,Nunatsiarmiut,65.21,-64.65,baff1240,Baffin Island Inuit (B386),xd1030,Baffinland; Baffin Island Inuit,1880,,,65,-65,Revised,,Subarctic America
+B390,Inughuit (Northern Greenland),77.53,-69.5,pola1254,Polar Inuit (B390),xd1031,Polar Eskimo; Arctic Highlanders; Smith Sound Inuit; Smith Sound Eskimo,1880,,,77.49,-69.5,Revised,"Note 8Feb2018: Glottocode changed to [ike] based on note from HH: ""The Polar Eskimo do not speak a language intelligible to Kalaalisut and had until recent times no contact or knowledge of the Kalaalisut further south. The language is intelligible to North Baffin Inuktitut so Glottolog counts Polar Eskimo as Eastern Canadian Inuktitut [ike]. Furthermore, Oswalt 1963 is listed as a reference to Polar Eskimo but concerns a completely different people in Alaska who speak Yupik-Central [esu].""",Subarctic America
+B361,Tlicho,63.85,-115.61,dogr1252,Dogrib (B361),xd1032,Dogrib,1860,,,63.85,-115.61,Original,,Subarctic America
+B358,Délįne,65.75,-122.89,nort2942,Satudene-Bear Lake (B358),xd1033,Bear Lake Dene; Satudene; Great Bear Lake People; Sahtu; Sahtu Dene,1860,,,65.75,-122.89,Original,,Subarctic America
+B345,DeneTha,61.15,-119.5,sout2959,Slave (B345),xd1034,Slave; Deh Cho (Southern Slavey); Slavey; Dene (distinguish from speakers of the Dene language),1860,,,61.15,-119.5,Original,,Subarctic America
+B349,Dakelh,53.33,-123.15,carr1249,Carrier (B349),xd1035,Carrier; Takulli,1880,,,53.33,-123.15,Original,,Western Canada
+B389,Tareumiut,71.24,-156.78,nort2944,Tareumiut Inuit (B389),xd1036,Tagiumiut; Point Barrow Eskimo; Barrow,1880,,,71.32,-156.78,Revised,,Subarctic America
+B356,Kutchin,65.94,-135.23,gwic1235,Kutchin (B356),xd1037,Gwich'in; Loucheux,1880,,,65.94,-135.23,Original,,Subarctic America
+B374,Caribou Inuit,64.33,-96.2,cari1277,Caribou Inuit (B374),xd1038,Caribou Eskimo,1900,,,64.33,-96.2,Original,,Subarctic America
+B372,Labrador Inuit,57.83,-62.32,labr1244,Labrador Inuit (B372),xd1039,Sukinninmiut; Labrador Eskimo,1890,,,57.97,-62.02,Revised,,Eastern Canada
+B388,Tasiilaq,65.64,-37.64,tunu1234,Angmaksalik (B388),xd1040,Angmagsalik (East Greenland); Ammassalik; East Greenland Eskimo; Polar Eskimo,1880,,,65.63,-37.64,Revised,Note 8Feb2018: Changed based on note from HH: East Greenlandic is Tunumiisiut [tunu1234] in Glottolog.,Subarctic America
+B385,Kalaallit (West Greenland),69.31,-50.21,kala1399,West Greenland (B385),xd1041,West Greenland Eskimo; West Greenland Inuit,1880,,,69.31,-50.21,Original,Note 8Feb2018: Glottocode updated from west2617 to kala1399,Subarctic America
+B362,Dena'ina,61.74,-150.45,tana1289,Tanaina (B362),xd1042,Tanaina,1870,,,61.74,-150.45,Original,,Subarctic America
+B347,Tahltan,57.66,-127.85,tahl1239,Tahltan (B347),xd1043,Southwestern Nahane,1870,,,57.66,-127.85,Original,,Western Canada
+B343,Sekani,56.14,-120,seka1250,Sekani (B343),xd1044,Tsek'ene; Sicauni,1880,,,56.14,-120,Original,,Western Canada
+B344,Beaver,58.51,-115.76,beav1236,Beaver (B344),xd1045,Denezaa; Tsattine,1850,,,58.51,-115.76,Original,,Western Canada
+B355,Dene,59.47,-106.19,chip1261,Chippewyan (B355),xd1046,Chipewyan,1880,Chipewyan (ND07),ND07,59.47,-106.19,Original,,Western Canada
+B342,Montagnais,52.42,-63.33,mont1268,Montagnais (B342),xd1048,Innu; Naskapi,1880,Montagnais (NH06),NH06,52.42,-63.33,Original,"Note 8Feb2018: Not changed, despite comment from HH: ""Naskapi [nsk] is a different lg from Montagnais [moe]"". KK: Decided to leave, after looking into ethnographic materials: Foci are Lake St. John Band and Mistassini band [see KK notes for geographical extent of their territories]. Speck and Heye (1921): ""[the] Pikwagami (""Flat lake,"" Lake St John), are an interior Montagnais culture intermediate between that of the coast and that of the eastern Naskapi and Mistassini. Therefore, Montagnais [moe] is more appropriate choice. ",Eastern Canada
+B332,Northern Saulteaux,52.28,-96.78,alba1270,North Saulteaux (B332),xd1049,N. Saulteaux; North Sauteaux,1870,Ojibwa (NG06),NG06,52.28,-96.78,Original,,Western Canada
+B334,Pekangekum,51.84,-93.85,lacs1238,Pekangekum Ojibwa (B334),xd1050,,1940,Ojibwa (NG06),NG06,51.84,-93.85,Original,,Eastern Canada
+B337,Nipigon,49.34,-88.31,cent2136,Nipigon Ojibwa (B337),xd1051,Lake Nipigon Ojibway; Anishinaabek; Southern Saulteaux,1800,Ojibwa (NG06),NG06,49.34,-88.31,Original,,Eastern Canada
+B331,Rainy River Ojibwe,45.21,-85.1,rain1239,Rainy River Ojibwa (B331),xd1053,Gojijiwininiwag; Rainy River; Emo,1880,Ojibwa (NG06),NG06,45.21,-85.1,Original,,Northeastern U.S.A.
+B328,Katikitegon,45,-91,uppe1274,Katikitegon (B328),xd1054,Wisconsin Ojibwa,1800,,,45,-91,Original,,North-Central U.S.A.
+B327,Eastern Ojibwa,45.21,-85.1,east2542,Kitchibaun Ojibwa (B327),xd1055,Kitchibuan; Kitchibuan Ojibwa; Kitchibaun Ojibwa,1870,Ojibwa (NG06),NG06,45.21,-85.1,Original,,Northeastern U.S.A.
+B346,Kaska,59.73,-125,kask1239,Kaska (B346),xd1056,Nahane,1920,Kaska (ND12),ND12,59.73,-125,Original,,Western Canada
+B329,Mi'kmaq,46.99,-65,mikm1235,Micmac (B329),xd1058,Micmac,1700,Mi'kmaq (NJ05),NJ05,46.99,-65,Original,,Eastern Canada
+B387,Netsilik,71.46,-94.93,nets1241,Netsilik Inuit (B387),xd1060,Netsilik Inuit; Netsilik Eskimo,1880,,,71.46,-94.93,Original,,Subarctic America
+B338,Mistissini Cree,51.75,-72.66,sout2978,Mistassini Cree (B338),xd1062,Mistassini Cree,1880,,,51.75,-72.66,Original,,Eastern Canada
+B365,Naskapi,56.19,-68.92,nask1242,Naskapi (B365),xd1063,,1890,Montagnais (NH06),NH06,56.19,-68.92,Original,,Eastern Canada
+B299,Nunivak,60.03,-166.3,kusk1241,Nunivak (B299),xd1064,Nunivak Cup'ig,1930,,,60.03,-166.3,Original,,Subarctic America
+B353,Attawapiskat Cree,53.62,-83.88,swam1239,Attawapiskat Cree (B353),xd1065,Attawapiskat,1900,,,53.62,-83.88,Original,,Eastern Canada
+B357,Deg Xit'an,61.82,-157.75,dege1248,Ingalik (B357),xd1066,Ingalik,1880,,,61.82,-157.75,Original,,Subarctic America
+B298,Aleut,55,-162.85,east2533,Aleut (B298),xd1067,Unagan,1830,Aleut (NA06),NA06,55,-162.85,Original,,Subarctic America
+B290,Haida,53.54,-132.29,nort2938,Haida (B290),xd1068,,1890,,,53.54,-132.29,Original,,Western Canada
+B336,Alkatcho,51.32,-124.02,sout2958,Alkatcho (B336),xd1069,Tsuu'Tina; Alkatcho Carrier; Ilgatcho; Ilgachuz,1865,,,51.32,-124.02,Original,,Western Canada
+B273,Nuu chah nulth,49.34,-125.74,nuuc1236,Nootka (B273),xd1070,Nuu-chah-nulth; Aht; Central Nootka,1880,Nuu-chah-nulth (NE11),NE11,49.34,-125.74,Original,,Western Canada
+B268,Squamish,49.77,-123.19,squa1248,Squamish (B268),xd1072,,1880,,,49.77,-123.19,Original,,Western Canada
+B282,Comox,50,-125.5,isla1276,Comox (B282),xd1073,K'ómoks,1860,,,50,-125.5,Original,,Western Canada
+B277,Lummi,48.84,-122.34,lumm1243,Lummi (B277),xd1074,Lhaq'temish,1880,,,48.84,-122.34,Original,,Northwestern U.S.A.
+B285,Klallam,47.95,-123.55,clal1241,Clallam (B285),xd1075,Clallum,1860,,,47.95,-123.55,Original,,Northwestern U.S.A.
+B270,Puyallup,47.11,-122.04,sout2965,Puyallup (B270),xd1076,,1870,,,47.11,-122.04,Original,,Northwestern U.S.A.
+B284,Quileute,47.77,-124.14,quil1240,Quileute (B284),xd1077,,1880,,,47.77,-124.14,Original,,Northwestern U.S.A.
+B274,Lower Chinook,46.06,-123.75,chin1286,Chinook (B274),xd1078,Chinook,1850,Chinookans of the Lower Columbia River (NR06),NR06,46.06,-123.75,Original,,Northwestern U.S.A.
+B271,Twana,47.55,-123.16,twan1247,Twana (B271),xd1079,,1850,,,47.55,-123.16,Original,,Northwestern U.S.A.
+B281,Tillamook,45.4,-123.82,till1254,Tillamook (B281),xd1080,Nehalem,1880,,,45.4,-123.82,Original,,Northwestern U.S.A.
+B275,Coos,43.43,-124.11,coos1249,Coos (B275),xd1081,,1860,,,43.43,-124.11,Original,,Northwestern U.S.A.
+B292,South Tlingit,57,-133.59,tlin1245,Tlingit (B292),xd1082,Kolosh; Southern Tlingit,1880,Tlingit (NA12),NA12,57,-133.59,Original,"Note northern and southern tlingit considered distinct dialects of tli by some, but no codes available in Glottolog.",Subarctic America
+B283,Heiltsuk,52.87,-127.87,bell1263,Bella-Bella (B283),xd1083,Bellabella; Bella Bella,1880,,,52.87,-127.87,Original,,Western Canada
+B286,Makah,48.22,-124.58,maka1318,Makah (B286),xd1084,,1860,Nootka (NE11),NE11,48.22,-124.58,Original,,Northwestern U.S.A.
+B278,Quinault,47.38,-123.82,quin1251,Quinault (B278),xd1085,,1860,Quinault (NR17),NR17,47.38,-123.82,Original,,Northwestern U.S.A.
+B280,Cowichan,48.41,-123.64,cowi1241,Cowichan (B280),xd1086,Hul'q'umi'num Mustimuhw,1880,,,48.41,-123.64,Original,,Western Canada
+B279,Stó:lō,49.23,-122.7,chil1281,Stalo (B279),xd1087,Stalo; Halkomelem; Fraser River Cowichan,1880,,,49.23,-122.7,Original,,Western Canada
+B269,Alsea,44.42,-123.84,alse1251,Alsea (B269),xd1088,,1860,,,44.42,-123.84,Original,,Northwestern U.S.A.
+B288,Kwakwaka'wakw,50.42,-126.67,kwak1269,Kwakiutl (B288),xd1090,Southern Kwakiutl; Kwagu'ł; Kwagyewlth,1890,,,50.42,-126.67,Original,,Western Canada
+B176,Takelma,42.44,-123.48,take1257,Tekelma (B176),xd1091,Rogue River Indians; Tekelma,1860,,,42.44,-123.48,Original,,Northwestern U.S.A.
+B181,Tututni,42.61,-124.04,tutu1242,Tututni (B181),xd1092,,1870,,,42.61,-124.04,Original,,Northwestern U.S.A.
+B179,Shasta,41.62,-122.7,shas1239,Shasta (B179),xd1093,,1860,,,41.62,-122.7,Original,,Southwestern U.S.A.
+B162,Chimariko,40.85,-123.3,chim1301,Chimariko (B162),xd1094,,1860,,,40.85,-123.3,Original,,Southwestern U.S.A.
+B182,Karuk,41.58,-123.47,karo1304,Karok (B182),xd1095,Karok,1860,,,41.58,-123.47,Original,,Southwestern U.S.A.
+B180,Hupa,40.93,-123.61,hupa1239,Hupa (B180),xd1096,,1860,,,40.93,-123.61,Original,,Southwestern U.S.A.
+B184,Wiyot,40.75,-124.14,wiyo1248,Wiyot (B184),xd1097,,1860,,,40.75,-124.14,Original,,Southwestern U.S.A.
+B167,Lassik,40.18,-123.16,wail1244,Lassik (B167),xd1098,,1870,,,40.18,-123.16,Original,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers",Southwestern U.S.A.
+B169,Mattole-Bear River,40.17,-124.04,matt1238,Mattole (B169),xd1099,Mattole; Bear River,1920,,,40.17,-124.04,Original,,Southwestern U.S.A.
+B166,Sinkyone,40.1,-123.96,wail1244,Sinkyone (B166),xd1100,,1860,,,40.1,-123.96,Original,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers",Southwestern U.S.A.
+B186,Yurok,41.4,-123.89,yuro1248,Yurok (B186),xd1101,,1850,Yurok (NS31),NS31,41.4,-123.89,Original,,Southwestern U.S.A.
+B295,Eyak,60.48,-144,eyak1241,Eyak (B295),xd1102,dAXunhyuu,1890,,,60.48,-144,Original,,Subarctic America
+B178,Tolowa,41.87,-123.92,tolo1259,Tolowa (B178),xd1103,,1870,,,41.87,-123.92,Original,,Southwestern U.S.A.
+B289,Tsimshian,54,-129.58,nucl1649,Tsimshim (B289),xd1104,Ts’msyan,1880,,,54,-129.58,Original,,Western Canada
+B287,Haisla,53.5,-128.42,hais1244,Haisla (B287),xd1105,Kitimat,1880,,,53.5,-128.42,Original,,Western Canada
+B291,Nuxalk,52.32,-126.58,bell1243,Bella-Coola (B291),xd1106,Nuxalkmc; Bellacoola; Bilqula; Bella Coola,1880,Nuxalk (NE06),NE06,52.32,-126.58,Original,,Western Canada
+B153,Nomlaki,40,-122.56,noml1242,Nomlaki (B153),xd1107,Central Wintun,1850,,,40,-122.56,Original,Changed 15Nov2016 to differentiate Nomlaki from Wintu,Southwestern U.S.A.
+B187,Achumawi,41.32,-121.19,achu1247,Achomawi (B187),xd1108,Achomawi,1860,,,41.32,-121.19,Original,,Southwestern U.S.A.
+B174,Yana,40.38,-122.89,yana1271,Northern Yana (B174),xd1109,Nozi,1860,,,40.38,-122.89,Original,,Southwestern U.S.A.
+B185,Maidu,40.28,-120.56,nort2952,Mountain Maidu (B185),xd1110,Pujunan,1850,,,40.28,-120.56,Original,,Southwestern U.S.A.
+B163,Nisenan,39.03,-121.15,nise1244,Nisenan (B163),xd1111,Southern Maidu; Nisenan Southern Maidu,1850,,,39.03,-121.15,Original,,Southwestern U.S.A.
+B160,Wintu,40.9,-122.35,nucl1651,Wintu (B160),xd1112,Northern Wintu,1860,,,40.9,-122.35,Original,Changed 15Nov2016 to differentiate Nomlaki from Wintu,Southwestern U.S.A.
+B177,Coast Yuki,39.64,-123.74,yuki1243,Coast Yuki (B177),xd1113,,1860,Yuki (NS30),NS30,39.64,-123.74,Original,,Southwestern U.S.A.
+B173,Northern Pomo,39.34,-123.29,nort2966,Nothern Pomo (B173),xd1115,,1860,Pomo (NS18),NS18,39.34,-123.29,Original,,Southwestern U.S.A.
+B158,Eastern Pomo,39.03,-122.94,east2545,Eastern Pomo (B158),xd1116,,1860,Pomo (NS18),NS18,39.03,-122.94,Original,,Southwestern U.S.A.
+B159,Clear Lake Pomo,39.12,-122.94,east2545,Clear Lake Pomo (B159),xd1116,Eastern Pomo,1860,Pomo (NS18),NS18,39.12,-122.94,Original,,Southwestern U.S.A.
+B152,Tübalulabal,36,-118.32,tuba1278,Tubatulabal (B152),xd1118,Tubatulabal,1850,Tubatulabal (NS22),NS22,36,-118.32,Original,,Southwestern U.S.A.
+B172,Wappo,38.59,-122.54,wapp1239,Wappo (B172),xd1119,,1860,,,38.59,-122.54,Original,,Southwestern U.S.A.
+B170,Lake Miwok,38.79,-122.48,lake1258,Lake Miwok (B170),xd1120,,1900,,,38.79,-122.48,Original,,Southwestern U.S.A.
+B155,Patwin,39.08,-122.05,patw1250,Patwin (B155),xd1121,Southern Wintun,1850,,,39.08,-122.05,Original,,Southwestern U.S.A.
+B157,Western Mono,36.6,-117.08,mono1275,Monache (B157),xd1122,Monachi; Western Mono; Monache,1870,,,36.6,-117.08,Original,,Southwestern U.S.A.
+B148,Southern Valley Yokuts,36,-119.83,vall1251,Lake Yokuts (B148),xd1123,Lake Yokuts; Tachi Yokuts; Chunut Yokuts,1860,Yokuts (NS29),NS29,36,-119.83,Original,,Southwestern U.S.A.
+B151,Wukchumni,36.45,-118.96,tule1245,Wukchumi (B151),xd1124,Central Foothills Yokuts,1860,Yokuts (NS29),NS29,36.45,-118.96,Original,,Southwestern U.S.A.
+B164,Salinan,35.47,-120.84,sali1253,Salinan (B164),xd1125,,1805,,,35.47,-120.84,Original,,Southwestern U.S.A.
+B199,Kawaiisu,35.37,-118,kawa1283,Kawaiisu Shoshoni (B199),xd1126,Kawaiisu Shoshoni,1860,,,35.37,-118,Original,,Southwestern U.S.A.
+B161,Chumash,34.63,-119.6,cruz1243,Chumash (B161),xd1127,,1860,,,34.63,-119.6,Original,,Southwestern U.S.A.
+B156,Tongva,34,-118,tong1329,Gabrieleno (B156),xd1128,Gabrielo; Gabrielino; Gabrieleno,1770,,,34,-118,Original,,Southwestern U.S.A.
+B154,Northern Foothills Yokuts,37.44,-120.44,nort2937,Yokuts (northern foothill) (B154),xd1129,Northern Foothill Yokuts,1850,Yokuts (NS29),NS29,37.44,-120.44,Original,,Southwestern U.S.A.
+B149,Serrano,34.52,-117,serr1255,Serrano (B149),xd1130,,1870,,,34.52,-117,Original,,Southwestern U.S.A.
+B144,Cahuilla (Desert),33.59,-116.24,cahu1264,Cahuilla (B144),xd1131,Desert Cahuilla,1870,,,33.59,-116.24,Original,"Note, three Cahuilla Dialects (Mountain, Pass, Desert) are recognized by some, but Glottolog does not list any dialects",Southwestern U.S.A.
+B145,Cupeño,33.26,-116.59,cupe1243,Cupeno (B145),xd1132,Kuupangaxwichem; Cupeno,1870,,,33.26,-116.59,Original,,Southwestern U.S.A.
+B150,Luiseño,33.42,-117.3,luis1253,Luiseno (B150),xd1133,Payómkawichum; Luiseno,1860,,,33.42,-117.3,Original,,Southwestern U.S.A.
+B146,Kiliwa,31.44,-115.25,kili1268,Kiliwa (B146),xd1134,K'olew,1880,,,31.44,-115.25,Original,,Mexico
+B183,Atsugewi,40.75,-121.12,atsu1245,Atsugewi (B183),xd1135,,1860,,,40.75,-121.12,Original,,Southwestern U.S.A.
+B175,Central Sierra Miwok,38,-119.77,cent2140,Sierra Miwok (B175),xd1136,Miwok,1850,,,38,-119.77,Original,,Southwestern U.S.A.
+B147,Kumeyaay,32.44,-116.49,kumi1248,Diegueno (B147),xd1137,Diegueño; Diegueno,1850,,,32.44,-116.49,Original,"Note, previously tipa1240 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)",Mexico
+B171,Yuki,39.7,-123.15,yuki1243,Yuki (B171),xd1138,,1850,Yuki (NS30),NS30,39.7,-123.15,Original,,Southwestern U.S.A.
+B189,Klamath,42.62,-121.5,klam1254,Klamath (B189),xd1139,,1860,Klamath (NR10),NR10,42.62,-121.5,Original,,Northwestern U.S.A.
+B188,Modoc,42,-121.31,klam1254,Modoc (B188),xd1140,,1860,,,42,-121.31,Original,,Northwestern U.S.A.
+B315,Tenino,45.59,-120.45,teni1238,Tenino (B315),xd1141,Warmsprings Sahaptin; Yenino,1850,,,45.59,-120.45,Original,,Northwestern U.S.A.
+B325,Nlaka'pamux,51.26,-121.75,thom1243,Thompson (B325),xd1142,Thompson; Nitlakapamuk; Thompson River Salish,1860,,,51.26,-121.75,Original,,Western Canada
+B333,Shuswap,53.41,-119.53,shus1248,Shuswap (B333),xd1143,Secwepemc,1850,,,53.41,-119.53,Original,,Western Canada
+B330,Bitterroot Salish,46.28,-113.26,kali1309,Flathead (B330),xd1144,Salish; Flathead,1860,Southeast (NR19),NR19,46.28,-113.26,Original,,Northwestern U.S.A.
+B326,Kalispel,47.94,-115.67,kali1309,Kalispel (B326),xd1145,,1870,Southeast (NR19),NR19,47.94,-115.67,Original,,Northwestern U.S.A.
+B320,Coeur d’Alene,47.42,-116.34,coeu1236,Coeur d'Alene (B320),xd1146,Schitsu'umsh; Skitswish,1860,Southeast (NR19),NR19,47.42,-116.34,Original,,Northwestern U.S.A.
+B321,Sinkaitk,48.78,-119.56,sout2963,Sinkaietk (B321),xd1147,Southern Okanagon,1880,Southeast (NR19),NR19,48.78,-119.56,Original,,Northwestern U.S.A.
+B317,Wenatchi,47.41,-120.31,wena1241,Wenatchi (B317),xd1148,,1870,,,47.41,-120.31,Original,,Northwestern U.S.A.
+B318,Klikitat,46.33,-120.27,nucl1237,Yakima (B318),xd1149,Yakima,1880,,,46.33,-120.27,Original,,Northwestern U.S.A.
+B319,Wishram,45.72,-121.13,wasc1239,Wishram (B319),xd1150,,1860,,,45.72,-121.13,Original,,Northwestern U.S.A.
+B316,Umatilla,45.49,-119.94,umat1237,Umatilla (B316),xd1151,,1860,,,45.49,-119.94,Original,,Northwestern U.S.A.
+B222,Southern Ute,37.67,-109,utee1244,Southern Ute (Wimonantci Ute) (B222),xd1152,Wimonuntci; Weminute; Wimonantci Ute,1860,Ute (NT19),NT19,37.67,-109,Original,,Northwestern U.S.A.
+B324,Nez Perce,46.25,-116.46,nezp1238,Nez Perce (B324),xd1153,Nimi'ipuu; Sahaptin,1850,,,46.25,-116.46,Original,,Northwestern U.S.A.
+B231,Wadadokado,43.25,-119.14,nort1551,Wadadokado Paiute (B231),xd1155,Paiute; Northern Paiute,1870,Northern Paiute (NR13),NR13,43.25,-119.14,Original,,Northwestern U.S.A.
+B226,Kidutokado,41.5,-120.06,nort1551,Kidutokado (Surprise Valley Paiute) (B226),xd1157,Gididika; Surprise Valley Paiute,1870,Northern Paiute (NR13),NR13,41.5,-120.06,Original,,Southwestern U.S.A.
+B208,Kuyuidokado,40,-119.6,sout2967,Kuyuidokado (Pyramid Lake Paiute) (B208),xd1160,Pyramid Lake Paiute,1860,Northern Paiute (NR13),NR13,40,-119.6,Original,,Southwestern U.S.A.
+B210,Toedokado,40.12,-118.37,sout2967,Cattail Paiute (B210),xd1161,Stillwater Paiute; Cattail Paiute,1870,,,40.12,-118.37,Original,,Southwestern U.S.A.
+B206,Tunava (Deep Springs),37.28,-118,mono1275,Deep Springs Paiute (B206),xd1162,Deep Springs Valley Paiute,1860,,,37.28,-118,Original,,Southwestern U.S.A.
+B211,Tunava (Fish Lake),37.69,-118.14,mono1275,Fish Lake Paiute (B211),xd1162,Fish Lake Valley Paiute,1860,,,37.69,-118.14,Original,,Southwestern U.S.A.
+B202,Eastern Mono,36.88,-118.18,mono1275,Owens Valley Paiute (Eastern Mono) (B202),xd1164,Owens Valley Paiute; Eastern Mono,1870,,,36.88,-118.18,Original,,Southwestern U.S.A.
+B197,Koso,36.12,-117.7,pana1305,Koso Mountain Shoshoni (B197),xd1165,Western Panamint; Koso Mountain Shoshoni; Little Lake Shoshoni,1860,Western (NT22),NT22,36.12,-117.7,Original,,Southwestern U.S.A.
+B192,Tümpisa Shoshone (Death Valley),36.52,-116.81,pana1305,Death Valley Shoshoni (B192),xd1166,Death Valley Shoshoni,1860,Western (NT22),NT22,36.52,-116.81,Original,,Southwestern U.S.A.
+B195,Tümpisa Shoshone (Panamint),36.37,-117.33,pana1305,Panamint Shoshoni (B195),xd1166,Panamint Shoshoni,1850,Western (NT22),NT22,36.37,-117.33,Original,,Southwestern U.S.A.
+B200,Tümpisa Shoshone (Saline),36.65,-117.79,pana1305,Saline Valley Shoshoni (B200),xd1166,Saline Valley Shoshoni,1860,Western (NT22),NT22,36.65,-117.79,Original,,Southwestern U.S.A.
+B218,Mahaguaduka,39.25,-117.32,west2622,Reese River Shoshoni (B218),xd1169,Reese River Shoshoni,1860,Western (NT22),NT22,39.25,-117.32,Original,,Southwestern U.S.A.
+B233,Wiyambituka,39.33,-115.84,west2622,Little Smokey Shoshoni (B233),xd1170,Morey Shoshoni; Great Smokey Valley Shoshoni; Little Smokey Valley Shoshoni,1860,Western (NT22),NT22,39.33,-115.84,Original,,Southwestern U.S.A.
+B217,Railroad Valley Shoshoni,38.33,-115.78,west2622,Railroad Valley Shoshoni (B217),xd1171,Hamilton,1860,Western (NT22),NT22,38.33,-115.78,Original,,Southwestern U.S.A.
+B323,Sanpoil,47.94,-118.44,sanp1257,Sanpoil (B323),xd1174,,1870,Southeast (NR19),NR19,47.94,-118.44,Original,,Northwestern U.S.A.
+B221,Tubaduka,41.59,-113.94,west2622,Grouse Creek Shoshoni (B221),xd1175,Grouse Creek Shoshoni,1860,,,41.59,-113.94,Original,,Southwestern U.S.A.
+B228,Wadaduka,40.36,-115.39,west2622,Wadaduica (Ruby Valley Shoshoni) (B228),xd1176,Ruby Valley Shoshoni; Pine Creek Shoshoni; Diamond Valley Shoshoni; Egan Canyon Shoshoni,1860,,,40.36,-115.39,Original,,Southwestern U.S.A.
+B216,White Knife Shoshoni,41,-117.31,west2622,White Knife Shoshoni (B216),xd1178,Battle Mountain Shoshoni; Tosawihi,1860,,,41,-117.31,Original,,Southwestern U.S.A.
+B229,Bohogue,43,-112,nort2955,Bohogue (Northern Shoshoni) (B229),xd1180,Fort Hall Shoshoni,1860,,,43,-112,Original,,Northwestern U.S.A.
+B232,Tukudika,45.17,-113.84,nort2955,Sheep Eater Shoshoni (B232),xd1181,Sheep-Eater Shoshoni; Lemhi Mountain Shoshoni,1860,,,45.17,-113.84,Original,,Northwestern U.S.A.
+B207,Agaiduka,42.94,-115.3,nort2955,Salmon Eater Shoshoni (B207),xd1182,Salmon-Eater Shoshoni; Lemhi River Shoshoni,1860,,,42.94,-115.3,Original,,Northwestern U.S.A.
+B214,Gosiute,39.88,-114,gosi1242,Gosiute Shoshoni (B214),xd1183,Gosiute Shoshoni; Deep Creek Shoshoni,1860,Western (NT22),NT22,39.88,-114,Original,,Southwestern U.S.A.
+B201,Antarianunts,37.86,-110.72,utee1244,Antarianunts Southern Paiute (B201),xd1184,Henry Mountains Paiute; Kaiparowits,1860,,,37.86,-110.72,Original,,Southwestern U.S.A.
+B213,Hukundika,41.55,-112.22,nort2955,Hukundika Shoshoni (B213),xd1185,Seed-Eaters; Northern Shoshoni; Hukunduka; Hukuniduica,1870,,,41.55,-112.22,Original,,Southwestern U.S.A.
+B204,Southern Paiute (Kaibab and Las Vegas),36.9,-112.55,sout2969,Kaibab Southern Paiute (B204),xd1189,Kaivavwits; Southern Paiute; Las Vegas; Southern Paiute,1860,,,36.9,-112.55,Original,,Southwestern U.S.A.
+B230,Uintah Ute,40.47,-110.22,utee1244,Uintah Ute (B230),xd1194,Tompanowots; Yampa,1860,,,40.47,-110.22,Original,,Southwestern U.S.A.
+B225,Washo,39.08,-119.82,wash1253,Washo (B225),xd1196,,1850,Washo (NT20),NT20,39.08,-119.82,Original,,Southwestern U.S.A.
+B234,Uncompahgre Ute,38.14,-107.8,utee1244,Uncompahgre Ute (B234),xd1199,Mowataviwatsiu,1860,,,38.14,-107.8,Original,,Northwestern U.S.A.
+B252,Bannock,43.66,-112.32,bann1248,Bannock (B252),xd1200,Eastern Bannock,1860,,,43.66,-112.32,Original,,Northwestern U.S.A.
+B227,Wind River Eastern Shoshone,43.19,-108.86,nort2955,Wind River Shoshoni (B227),xd1201,Wind River; Eastern Shoshoni; Kucundika; Buffalo Hunters; Buffalo-Eater,1860,,,43.19,-108.86,Original,,Northwestern U.S.A.
+B198,Hualapai,35.95,-114.5,wala1270,Walapai (B198),xd1202,Walapai,1870,,,35.95,-114.5,Original,,Southwestern U.S.A.
+B196,Yavapai,33.37,-110.5,yava1252,Yavapai (B196),xd1203,Apache-Mojave,1870,,,33.37,-110.5,Original,,Southwestern U.S.A.
+B250,Kutenai,47.48,-114.08,kute1249,Kutenai (B250),xd1205,Ktunaxa; Kootenay; Kootenai,1880,,,47.48,-114.08,Original,,Northwestern U.S.A.
+B348,Chilcotin,51.68,-124,chil1280,Chilcotin (B348),xd1206,Tsilhqot'in,1880,,,51.68,-124,Original,,Western Canada
+B276,Lillooet,50.46,-123,lill1248,Lillooet (B276),xd1207,St'at'imc; Stlatlum,1860,,,50.46,-123,Original,,Western Canada
+B253,Gros Ventre,48.12,-105.6,gros1243,Gros-Ventre (B253),xd1208,A'ani; A'aninin; Haaninin,1870,Gros Ventre (NQ13),NQ13,48.12,-105.6,Original,,Northwestern U.S.A.
+B257,Assiniboine,49.49,-102.43,assi1247,Assiniboine (B257),xd1210,Hohe; Nakota; Stoney,1870,Assiniboine (NF04),NF04,49.49,-102.43,Original,,Western Canada
+B256,Blackfoot,51.01,-110.76,pieg1239,Blackfoot (B256),xd1211,Siksika,1850,Blackfoot (NF06),NF06,51.01,-110.76,Original,,Western Canada
+B259,Kainai,52.79,-113.86,bloo1239,Blood (B259),xd1212,Blood; Kainah; Blood Tribe,1850,Blackfoot (NF06),NF06,52.79,-113.86,Original,,Western Canada
+B254,Bungi,47.6,-97.25,west1510,Bungi (Plains Ojibwa) (B254),xd1213,Plains Ojibwa; Bungee; Manitoba Saulteaux; Ojibway; Ojibwe,1850,Ojibwa (NG06),NG06,47.6,-97.25,Original,,North-Central U.S.A.
+B193,Karankawa,28.44,-96.91,kara1289,Karankawa (B193),xd1215,,1800,,,28.44,-96.91,Original,,South-Central U.S.A.
+B243,Kiowa,36.9,-99.1,kiow1266,Kiowa (B243),xd1216,,1870,,,36.9,-99.1,Original,,North-Central U.S.A.
+B255,Piegan,49.34,-111.21,pieg1239,Piegan (B255),xd1217,Pikuni,1850,Blackfoot (NF06),NF06,49.34,-111.21,Original,,Western Canada
+B258,Plains Cree,51.86,-102.67,plai1258,Plains Cree (B258),xd1218,,1850,,,51.86,-102.67,Original,,Western Canada
+B244,Kiowa Apache,35.83,-98.9,kiow1264,Kiowa Apache (B244),xd1219,Naisha Dene; Na'isha,1860,,,35.83,-98.9,Original,,North-Central U.S.A.
+B194,Coahuilteco,26,-102.07,coah1252,Coahuilenos (B194),xd1221,,1715,,,26,-102.07,Original,,Mexico
+B241,Comanche,36.83,-100.5,coma1245,Comanche (B241),xd1222,,1870,Comanche (NO06),NO06,36.83,-100.5,Original,,North-Central U.S.A.
+B248,Crow,45.83,-108.48,crow1244,Crow (B248),xd1223,Apsaalooké,1870,Crow (NQ10),NQ10,45.83,-108.48,Original,,Northwestern U.S.A.
+B245,Cheyenne,38.83,-102.35,chey1247,Cheyenne (B245),xd1224,,1860,,,38.83,-102.35,Original,,Northwestern U.S.A.
+B260,Sarcee,53.15,-111.04,sars1236,Sarsi (B260),xd1226,Tsuu; Sarci,1880,,,53.15,-111.04,Original,,Western Canada
+B249,Teton,44.5,-102.27,lako1247,Teton Sioux (Lakota) (B249),xd1227,,1870,,,44.5,-102.27,Original,,North-Central U.S.A.
+B246,Arapaho,40.13,-102.72,arap1274,Arapaho (B246),xd1228,Hinono'eiteen; Arapahoe,1860,Arapaho (NQ06),NQ06,40.13,-102.72,Original,,Northwestern U.S.A.
+B242,Chiricahua,32.52,-101.76,mesc1238,Chiricahua Apache (B242),xd1259,Chiricahua Apache; Eastern Apache,1880,Eastern Apache (NT08),NT08,32.52,-101.76,Original,,South-Central U.S.A.
+B240,Lipan Apache,28.96,-98.48,lipa1241,Lipan Apache (B240),xd1275,Lipan,1880,,,28.96,-98.48,Original,,South-Central U.S.A.
+B143,Seri,29.59,-112.18,seri1257,Seri (B143),xd1289,Comcaac,1900,Seri (NU31),NU31,29.59,-112.18,Original,,Mexico
+B191,Chichimeca,22,-100,chic1272,Chichimec (B191),xd1290,Chichimec,1570,,,22,-100,Original,,Mexico
+B35,Paraujano,9.9,-72.41,para1316,Paraujano (B35),xd1330,Onoto,1950,,,9.9,-72.41,Original,,Northern South America
+B38,Pumé,6.85,-68.77,pume1238,Yaruro-Pume (B38),xd1345,Yaruro,1989,Pumé (SS19),SS19,6.85,-68.77,Original,,Northern South America
+B39,Guahibo,5.38,-68.31,guah1255,Guahibo (B39),xd1347,,1960,,,5.38,-68.31,Original,,Western South America
+B36,Shiriana,3.86,-66.17,nina1238,Shiriana (B36),xd1358,Kirishana; Xiriana,1960,Yanoama (SQ18),SQ18,3.86,-66.17,Original,,Northern South America
+B43,Sirionó,-15,-63.58,siri1273,Siriono (B43),xd1362,Miá; Siriono,1940,Siriono (SF21),SF21,-15,-63.58,Original,,Western South America
+B55,Yahgan,-55.02,-68.98,yama1264,Yaghan (B55),xd1383,,1870,Yahgan (SH06),SH06,-60,-68.66,Revised,,Southern South America
+B54,Ona,-53.9,-68.62,onaa1245,Ona (B54),xd1385,,1880,Ona (SH04),SH04,-53.9,-68.62,Original,,Southern South America
+B51,Tehuelche,-46,-68.7,tehu1242,Tehuelche (B51),xd1386,Patagon,1870,Tehuelche (SH05),SH05,-46,-68.7,Original,,Southern South America
+B53,Alacaluf,-49.55,-74.52,qawa1238,Alacaluf (B53),xd1387,Kawésqar,1900,,,-49.55,-74.52,Original,,Southern South America
+B41,Bororo,-16,-55,boro1282,Bororo (B41),xd1397,,1920,Bororo (SP08),SP08,16.52,-55,Revised,,Brazil
+B45,Nambikwara,-12.73,-59.55,sout2994,Nambikwara (B45),xd1401,Nambicura,1938,Nambicuara (SP17),SP17,-12.73,-59.55,Original,,Brazil
+B42,Guató,-18,-57.5,guat1253,Guato (B42),xd1403,Guato,1901,,,-18,-57.5,Original,,Brazil
+B50,Aweikoma,-28,-50,xokl1240,Aweikomo (B50),xd1411,Xokleng; Shokleng; Botocudo of Santa Catarina; Bugre; Kaingang of Santa Catarina (though Aweikoma and Kaingang today considered separate groups),1910,Xokleng (SM03),SM03,-28,-50,Original,,Brazil
+B48,Aimoré,-18.71,-41.86,kren1239,Botocudo (B48),xd1413,Nac-nanuk; Nac-poruk; Botocudo,1880,,,-18.71,-41.86,Original,,Brazil
+B165,Kashaya Pomo,38.54,-122.88,kash1280,Southern Pomo (B165),xd1418,Southwest dialect; Southern Pomo,1860,,,38.54,-122.88,Original,,Southwestern U.S.A.
+B70,Dorobo,0,36,okie1245,Dorobo (B70),xd2,Andorobo; Okiek; Wandorobbo,1920,Okiek (FL20),FL20,0,36,Original,,East Tropical Africa
+B65,Mbuti,1.54,28.61,bila1255,Mbuti (B65),xd5,Sua; BaSua; Kango; BaKango; Bambuti; BaMbuti Pygmies,1930,Mbuti (FO04),FO04,1.54,28.61,Original,"Note 8Feb2018: Changed. Focus is ""Epulu net-hunters, Ituri forest"". From White pinpointing sheets: ""The Pygmies and Pygmoid peoples of the Congo have been pushed into smaller and smaller areas of the tropical forest since the invasions of Bantu and Sudanic tribes in the 16-17th centuries, and most of the groups have adopted the languages of invading tribes with whom they allied themselves. Mbuti pygmies have adopted the languages of the Bira to the south of them, the Lese to the east, the Mangbetu and Azande to the northwest, and the Mamvu-Mangutu to the north. The [...] Epulu group studied by Turnbull situated to the north of the Ituri and Epulu Rivers, and the majority of the other groups to the south of the Ituri River [...] are net-hunters, and speak a language largely influenced by the Forest Bira."" Note, though, that Ember concordance lists the language as Lese.",West-Central Tropical Africa
+B25,Nivkh,51.54,140,gily1242,Gilyak (B25),xd617,Gilyak,1920,Nivkh (RX02),RX02,51.54,140,Original,,Russian Far East
+B27,Nganasan,73.83,90,ngan1291,Nganasan (B27),xd620,Tavgi Samoyed,1933,Samoyed_with_notes_on_Nganasan (RU04),RU04,73.83,90,Original,,Siberia
+B28,Ungazikmit,65.96,-170.08,cent2128,Siberian Eskimo (B28),xd622,Eskaleut; Asian Eskimo,1860,,,65.96,170.08,Revised,9May2019 - Longitude for society was corrected to western hemisphere from eastern hemisphere through addition of - sign. 1Oct2018 - the update to Glottolog 3.3.2 forced re-mapping from dialect chap1266 (which no longer exists) to language (cent2128) (always the language-level match for this society).,Russian Far East
+B26,Yukaghir,70,145,nort2745,Yukaghir (B26),xd634,,1900,,,70,145,Original,,Siberia
+B22,Ainu,44.01,144.17,ainu1240,Ainu (B22),xd635,Ainu (Hokkaido); Hokkaido,1900,Ainu (AB06),AB06,44.01,144.17,Original,,Eastern Asia
+B24,Ket,62,90,kett1243,Ket (B24),xd636,Yenisei Ostyak; Yeniseians,1900,,,62,90,Original,,Siberia
+B15,Chenchu,16.25,78.97,chen1255,Chenchu (B15),xd672,,1940,,,16.25,78.97,Original,,Indian Subcontinent
+B8,Andamanese,13.32,92.89,akab1249,Big Andaman Island (B8),xd686,Big Andaman Island; Andamese,1870,Andamans (AZ02),AZ02,13.32,92.89,Original,Changed to abj from apq on 8 April 2017 based on comments from H. Hammarström: Man (1885) worked most with (and whose variety he spoke best) Bojingya or Aka-Bea [abj],Indo-China
+B10,Vedda,8.59,81.19,vedd1240,Vedda (B10),xd690,Wanniyalaeto; Veddah,1900,Vedda (AX05),AX05,8.58,81.25,Revised,,Indian Subcontinent
+B73,Naron,-21.64,21.61,naro1249,Nharo (B73),xd7,Aikwe,1910,,,-21.64,21.61,Original,,Southern Africa
+B9,Semang,5.86,101,kens1248,Semang (B9),xd725,,1920,Semang (AN07),AN07,5.86,101,Original,,Malesia
+B3,Anak Dalam,-3.04,102.69,kubu1239,Kubu (B3),xd757,Orang Batin Sembilan; Orang Rimba; Kubu,1900,,,-3.04,102.69,Original,,Malesia
+B1,Punan,3,114,west2563,Punan (B1),xd1442,Penan Gang; Punan Busang,1970,,,3,114,Original,"Note, previously this language was associated with xd758, and with both Binford and EA ""Punan"" societies. This xd_id now refers only to the Binford ""Punan"" society, with the EA ""Punan"" society linked to xd758 and language iso ""pna"" (3 Mar 2016). In May 2016 received this further comment from H. Hammarström: ""The references here reference different hunting and gathering populations of Borneo, not all of which speak the [same] language"" ""[...] if you have to put one [language] for all of these then a better match is Penan-Western [pne] because e.g Urquhart 1951 is on Penan Gang and Penan Lusong and Brosius is on Penan Gang. Both Penan Gang and Penan Lusong speak varieties of Penan-Western [pne].""",Malesia
+B124,Northern Aranda,-23.7,133.76,east2379,Northern Arenda (B124),xd772,Aranda (Northern); Northern Arenda; Arunta,1900,Aranda (OI08),OI08,-23.7,133.76,Original,"Note 8Feb2018: Not changed, despite note from HH: ""Why is Strehlow not associated rather with Western Arrarnta [are]"". According to White SCCS Pinpointing sheets, focus is ""The Arunta Mbainda of Alice Springs: [...] closely studied by Spencer and Gillen in 1896, restudied in 1901, and visited by Spencer in 1926 for some follow-up reconstruction work with several informants."" [So, Strehlow was perhaps used for supporting materials?]",Australia
+B109,Walbiri,-20,130.57,warl1254,Walbiri (B109),xd773,Warlpiri,1965,,,-20,130.57,Original,,Australia
+B87,Gidjingali,-12.18,134.4,gunn1248,Gidjingali (B87),xd774,Burarra; Gun-nartpa,1950,,,-12.18,134.4,Original,,Australia
+B94,Yir Yoront,-15,142.17,jirj1239,Yir-yoront (B94),xd775,,1937,,,-15,142.17,Original,"Note, previously yiy and yiry1245, however both codes have been retired",Australia
+B97,Anindilyagwa,-14,136.62,anin1240,Groote Eylandt (B97),xd776,Enindilywakwa; Groote Eylandt; Groote Eyelandt,1930,,,-14,136.62,Original,,Australia
+B88,"Yolngu, Dhuwal",-12.93,135.84,dhuw1249,Murngin (B88),xd777,Murngin; Wulamba; Dhuwal,1930,Murngin (OI17),OI17,-12.93,135.84,Original,,Australia
+B95,Tiwi,-11.59,130.87,tiwi1244,Tiwi (B95),xd778,,1920,Tiwi (OI20),OI20,-11.59,130.87,Original,,Australia
+B121,Diyari,-28.54,139.09,dier1241,Dieri (B121),xd779,Dieri; Dieri,1900,,,-28.54,139.09,Original,,Australia
+B106,Kariyarra,-20.88,118.27,kari1304,Kariera (B106),xd780,Kariera,1910,,,-20.88,118.27,Original,,Australia
+B90,Wikmunkan,-13.47,142,wikm1247,Wikmunkan (B90),xd781,Wikmunkun,1920,,,-13.47,142,Original,,Australia
+B137,Tasmanians (northwestern),-41.38,145.21,port1278,Tasmanians (western) (B137),xd783,Palawa; Tasmanians (northwestern); Tasmanians (Western); Tasmanians (West Coast),1830,Tasmanians (OI19),OI19,-41.38,145.21,Original,"Note, previously tasm1247, but languages difficult to assign with certainty, so chose another western tasmanian language not considered a ""bookkeeping"" language by glottolog",Australia
+B130,Ngiyambaa,-32.14,146.09,wang1291,Wongaibon (B130),xd784,Wongaibon,1910,,,-32.14,146.09,Original,,Australia
+B79,/Xam,-31.47,19.77,xamm1241,/Xam (B79),xd8,Xam; Cape Bushman,1970,,,-31.47,19.77,Original,,Southern Africa
+B69,Hadza,-3.82,35.32,hadz1240,Hadza (B69),xd9,Hadzabe; Hatsa Kindiga; Hadza; Kindiga,1910,,,-3.82,35.32,Original,,East Tropical Africa
+B2,Palawan Batak,10.03,119.09,bata1301,Batek (B2),xd900,Batek; Batak; Batek (Palawan); Palawan,1968,,,10,119.11,Revised,"Changed from plw (broo1239) on 26 May 2016 based on feedback from H. Hammarström: ""The Batak in Cadeliña, Warren and Eder is Batak [bya] bata1301 not [plw] broo1239""",Malesia
+B4,Shompen,7,93.77,shom1245,Shompen (B4),xd901,Shamhap,1989,,,7,93.77,Original,,Indo-China
+B5,Onge,10.7,92.47,onge1236,Onge (B5),xd902,Andaman Islands (Onge); Onge Andamanese,1952,,,10.7,92.47,Original,,Indo-China
+B6,Jarawa,12.17,92.65,jara1245,Jarwa (B6),xd903,Andaman Islands (Jarwa); Jarawa Andamanese,1906,,,12.19,92.37,Revised,,Indo-China
+B7,Ayta (Pinatubo),15.5,120.33,boto1242,Ayta (Pinatubo) (B7),xd904,,1903,,,15.5,120.33,Original,,Malesia
+B11,Hill Pandaram,9.25,77.25,mala1468,Hill Pandaran (B11),xd905,Hill Pandaran; Malapantāram; Malapandaram,1972,,,9.25,77.25,Original,,Indian Subcontinent
+B12,Agta (Casiguran),17.33,122.13,casi1235,Agta (Casiguran) (B12),xd906,,1965,,,17.33,122.13,Original,,Malesia
+B13,Agta (Isabela),17.48,122.05,agta1234,Agta (Isabela) (B13),xd907,,1979,,,17.48,122.05,Original,,Malesia
+B14,Agta (Cagayan),17.82,121.8,cent2084,Agta (Cagayan) (B14),xd908,,1924,,,17.82,121.8,Original,,Malesia
+B16,Mlabri,18.41,100.47,mlab1235,Mrabri (B16),xd909,Mrabri,1963,,,18.41,100.47,Original,,Indo-China
+B17,Paliyans,9.75,77.5,pali1274,Paliyans (B17),xd910,,1963,,,9.75,77.5,Original,,Indian Subcontinent
+B18,Birhor,23.41,84.38,birh1242,Birhor (B18),xd911,,1963,,,23.41,84.38,Original,,Indian Subcontinent
+B19,Kadar,10.25,77.17,kada1242,Kadar (B19),xd912,,1946,,,10.25,77.17,Original,,Indian Subcontinent
+B20,Cholanaikkan,10.18,76.4,jenn1240,Cholanaickan (B20),xd913,Malanaikan; Sholanaikan; Cholanaickan,1974,,,10.18,76.4,Original,"Changed to xuj (jenn1240) from mal (sout2708) on 26 May 2016 based on feedback from H. Hammarström: ""The people Bhanu studied natively speak a variety of Kurumba-Jennu [xuj]""; previously matched to language ""mal"" based on KK note: ""lat/long coordinates for society place it in Central Kerala state, much closer to lat/long for mal than for xuj (which is in neighbouring Tamil Nadu state). I couldn't access the sources, though",Indian Subcontinent
+B21,Nayaka,11.9,77.21,jenn1240,Nayaka (B21),xd914,,1978,,,11.9,77.21,Original,,Indian Subcontinent
+B23,Orogens,51.91,122.5,oroq1238,Orogens (B23),xd915,,1900,,,51.91,122.5,Original,,China
+B37,Akurio,3,-55,akur1238,Akuriyo (B37),xd916,Akuriyo,1968,,,3,-55,Original,,Northern South America
+B40,Nukak,2.56,-71.81,nuka1242,Nukak (B40),xd917,Macu Nukak,1990,,,2.56,-71.81,Original,,Western South America
+B44,Yuqui,-16.46,-64.97,yuqu1240,Yuqui (B44),xd918,Mbia,1968,,,-16.46,-64.97,Original,,Western South America
+B46,Calusa,26.48,-81.96,calu1239,Calusa (B46),xd919,,1600,,,-26.5,-82,Revised,,Southeastern U.S.A.
+B47,Aché,-25.7,-55.38,ache1246,Guayaki (Ache) (B47),xd920,Guayaki (Ache); Guayaki; Ache,1975,,,-25.7,-55.38,Original,,Southern South America
+B49,Héta,-23.52,-53.68,xeta1241,Heta (B49),xd921,Heta,1954,,,-23.52,-53.68,Original,,Brazil
+B52,Chono,-45,-73.83,chon1248,Chono (B52),xd922,Chona,1880,,,-45,-73.83,Original,,Southern South America
+B60,Aka,2,17,base1242,Aka (B60),xd923,Eastern Aka; Bayaka; BaAka; Ba'aka; Bayaka; Aka Pygmies; Pygmées Aka; BaBinga; BaMbenga,1980,,,2,17,Original,"Note 22Jul2021 - dialect match changed by KK from bamb1264 to base1242. Research notes relevant to Aka (society in Binford, GJB datasets), Bayaka (Binford dataset), and Mbendjele (GJB dataset) all speak varieties of yaka1272 'Yaka (Central African Republic)'. The re-assignment of dialect bamb1264 from society 'Aka' to 'Mbendjele' is well supported (c.f. Bahuchet, who mentions it is the dialect spoken in Western Aka areas). The dialect 'base1242' (Basese), now assigned to societies B60 (Aka) and GJB 'Aka', is mentioned on Wikipedia's Aka language page as being spoken in the East (and the Lobaye region, where work with the Aka was carried out, is North East of the Ouesso region, where work with the Mbendjele was carried out). This is the only evidence I have used to link 'base1242' to the Aka societies. Society B61 (Bayaka) is assigned yet another dialect (beka1240), mainly as a way to distinguish the group from Aka and Mbendjele (no additional evidence links this glottolog dialect to B61 Bayaka - match was done through a process of elimination). ",West-Central Tropical Africa
+B61,Bayaka,3.58,17.76,beka1240,Bayaka (B61),xd924,,1976,,,3.58,17.76,Original,"Note 22Jul2021 - Language research notes relevant to Aka (society B60 in Binford, 'Aka' in GJB ), Bayaka (B61 in Binford dataset), and Mbendjele (GJB dataset) all of whom speak varieties of yaka1272 'Yaka (Central African Republic)'. The re-assignment of dialect bamb1264 from society 'Aka' to 'Mbendjele' is well supported (c.f. Bahuchet, who mentions it is the dialect spoken in Western Aka areas). The dialect 'base1242' (Basese), now assigned to societies B60 (Aka) and GJB 'Aka', is mentioned on Wikipedia's Aka language page as being spoken in the East (and the Lobaye region, where work with the Aka was carried out, is North East of the Ouesso region, where work with the Mbendjele was carried out). This is the only evidence I have used to link 'base1242' to the Aka societies. Society B61 (Bayaka) is assigned yet another dialect (beka1240), mainly as a way to distinguish the group from Aka and Mbendjele (no additional evidence links this glottolog dialect to B61 Bayaka - match was done through a process of elimination).",West-Central Tropical Africa
+B62,Bambote,-6.64,28.26,holo1240,Bambote (B62),xd925,Bambote of Lake Tanganyika,1977,,,-6.64,28.26,Original,"Note that Terashima (1980), the main source of cultural data for this group, says further research is needed to confirm whether Bambote speak language of a neighbouring group, or their own language. Both the Bambote and their neighbours say the group speaks a distinct language, ""Kimbote."" Rebecca Grollemund said this society should NOT be matched to iso ""tap""; she said ""Bambote is a pygmy language related to D20 languages""",West-Central Tropical Africa
+B63,Baka,2.39,15.31,baka1272,Baka (B63),xd926,Baka BaNgombe; Baka; BaBinga; BaMbenga; Baka Pygmies,1980,,,2.39,15.31,Original,,West-Central Tropical Africa
+B64,Efe,2.7,27.64,efee1239,Efe (B64),xd927,BaMbuti; Mbuti; Bambuti Pygmies,1980,,,2.7,27.64,Original,,West-Central Tropical Africa
+B66,Mikea,-22.32,43.81,masi1268,Mikea (B66),xd928,Vezo-Mikea; Masikoro-Mikea,1970,,,-22.32,43.81,Original,,Western Indian Ocean
+B67,Hukwe,-16.93,24.32,kxoe1243,Hukwe (B67),xd929,,1950,,,-16.93,24.32,Original,,South Tropical Africa
+B68,Hai//om,-18.65,16.12,haio1238,Hai//om (B68),xd930,Hai//om,1920,,,-18.65,16.12,Original,,Southern Africa
+B71,Sekele,-16.42,19.53,vase1234,Sekele (B71),xd931,,1928,,,-16.42,19.53,Original,,South Tropical Africa
+B74,G/wi,-22.46,23.39,gwii1239,G/wi (B74),xd932,,1962,,,-22.46,23.39,Original,,Southern Africa
+B75,Kua,-22.88,24.41,kuaa1238,Kua (B75),xd933,,1976,,,-22.88,24.41,Original,,Southern Africa
+B76,!Ko,-23.86,22.2,huaa1248,!Ko (B76),xd934,,1968,,,-23.86,22.2,Original,,Southern Africa
+B77,/'Auni-Khomani,-27.37,19.82,nuuu1241,/Auni-Khomani (B77),xd935,/Auni-Khomani,1920,,,-27.37,19.82,Original,,Southern Africa
+B78,//Xegwi,-26.28,30.23,xegw1238,//Xegwi (B78),xd936,Batwa (Lake Chrissie),1950,,,-26.28,30.23,Original,,Southern Africa
+B82,Kaurareg,-10.73,142.15,kala1377,Kaurareg (B82),xd937,,1848,,,-10.77,142.12,Revised,,Australia
+B83,Larikia,-12.6,130.79,lara1258,Larikia (B83),xd938,,1900,,,-12.6,130.78,Revised,,Australia
+B84,Gunwinygu,-12.43,134.12,gunw1252,Gunwinggu (B84),xd939,Gunwinggu,1978,,,-12.43,134.12,Original,,Australia
+B85,Mirrngadja,-12.31,135.2,djin1252,Mirrngadja (B85),xd940,,1970,,,-12.31,135.2,Original,,Australia
+B86,Burarra,-12.2,134.73,gunn1247,Anbarra (B86),xd941,Anbarra; Gun-nartpa,1973,,,-12.2,134.73,Original,,Australia
+B89,Yiiji,-15.55,128.19,wuna1249,Jeidji (B89),xd942,Jeidji,1920,,,-15.55,128.19,Original,,Australia
+B91,Kaakutju,-13.13,132.95,gaga1251,Kakadu (B91),xd943,Kakadu,1920,,,-13.13,132.95,Original,,Australia
+B92,Nunggubuyu,-13.76,135.98,nung1290,Nunggubuyu (B92),xd944,Wubuy,1960,,,-13.76,135.98,Original,,Australia
+B93,Yintjingga,-14,143.5,ayab1239,Yintjingga (B93),xd945,,1930,,,-14,143.5,Original,"Note 8Feb2018: Glottocode changed based on comment by HH: ""Yintjingga (specifically) in the Glottolog inventory falls under Ayabadhu [ayd].""",Australia
+B96,Kuku (Yalanji),-15.92,145.32,kuku1273,Kuku (Yalanji) (B96),xd946,Yuku,1880,,,-15.92,145.32,Original,,Australia
+B98,Walmbaria,-14.34,144.22,flin1247,Walmbaria (B98),xd947,,1926,,,-14.34,144.22,Original,,Australia
+B99,Mulluk,-13.58,130.58,mull1237,Mulluk (B99),xd948,Malakmalak,1900,,,-13.58,130.58,Original,,Australia
+B100,Worrorra,-15.32,124.72,worr1237,Worora (B100),xd949,Worora,1930,,,-15.32,124.72,Original,,Australia
+B101,Kija,-16.91,127.83,kitj1240,Lungga (B101),xd950,Kija; Lungga; Kija; Lungka,1934,,,-16.91,127.83,Original,,Australia
+B102,Lardil,-16.48,139.32,lard1243,Lardil (B102),xd951,,1909,,,-16.3,139.3,Revised,,Australia
+B103,Kaiadilt,-16.94,139.03,kaya1319,Kaiadilt (B103),xd952,Kayardild,1928,,,-16.94,139.28,Revised,,Australia
+B104,Karajarri,-18.94,121.68,kara1476,Karadjeri (B104),xd953,Karadjeri,1925,,,-18.92,121.21,Revised,,Australia
+B105,Mamu,-17.64,145.84,mamu1253,Mamu (B105),xd954,,1900,,,-17.64,145.84,Original,,Australia
+B107,Warunggu,-18.41,145.61,waru1264,Warunggu (B107),xd955,Woronggo,1870,,,-18.41,145.61,Original,,Australia
+B108,Djaru,-19.16,130,jaru1254,Djaru (B108),xd956,Jaru,1934,,,-19.16,130,Original,,Australia
+B110,Ngatjan,-17.36,145.56,ngad1260,Ngatjan (B110),xd957,,1880,,,-17.36,145.56,Original,,Australia
+B111,Mardudjara,-22.79,125.06,mart1256,Mardudjara (B111),xd958,Ngatjan,1960,,,-22.79,125.06,Original,,Australia
+B112,Ildawongga,-22.93,127.18,wanm1242,Ildawongga (B112),xd959,,1968,,,-22.93,127.18,Original,"Note 8Feb2018: Note from HH: ""I thought Ildawongga were a late contacted band of Pintupi but I may be misremembering and I don't know the reference."" KK: leaving for now as Australian languages checked by C. Bowern.",Australia
+B113,Pintubi,-22.86,129.44,pint1250,Pintubi (B113),xd960,,1936,,,-22.86,129.44,Original,,Australia
+B114,Undanbi,-27.27,153.02,waka1274,Undanbi (B114),xd961,Undambi,1848,,,-27.28,153.24,Revised,,Australia
+B115,Jinibarra,-27.25,152.87,yaga1256,Jinibarra (B115),xd962,,1840,,,-27.25,152.87,Original,Assigned Glottolog id on 26 May 2016 based on feedback from H. Hammarström,Australia
+B116,Karuwali,-24.41,141.64,karr1236,Karuwali (B116),xd963,,1900,,,-24.41,141.64,Original,,Australia
+B117,Alyawara,-22.27,135.17,alya1239,Alyawara (B117),xd964,,1965,,,-22.27,135.17,Original,,Australia
+B118,Ngatatjara,-25.32,127.27,ngaa1240,Ngatatjara (B118),xd965,,1968,,,-25.32,127.27,Original,,Australia
+B119,Badjalang,-29.59,152.78,midd1357,Badjalang (B119),xd966,,1850,,,-29.59,152.78,Original,Note 8Feb2018: KK: Updated Glottocode as the previous one (band1339) was a family-level code.,Australia
+B120,Pitjandjara,-26,130,pitj1243,Pitjandjara (B120),xd967,Pitjantjatjara,1968,,,-26,130,Original,,Australia
+B122,Southern Aranda,-26.09,135.52,lowe1436,Southern Arenda (B122),xd968,Aranda (Southern); Southern Arenda,1870,,,-26.09,135.52,Original,,Australia
+B123,Jankundjara,-27,131.95,yank1247,Jankundjara (B123),xd969,Yankunytjatjara,1922,,,-27,131.95,Original,,Australia
+B125,Yuwaalaraay,-29.3,147.25,gami1243,Ualarai (B125),xd970,Ualarai,1880,,,-29.3,147.25,Original,,Australia
+B126,Nakako,-27.31,128.19,pitj1243,Nakako (B126),xd971,,1912,,,-27.31,128.19,Original,"KK: Language match uncertain: H. Hammarström suggests closest match is [ntj], when I discussed with Claire Bowern in 2015, she was not confident it should be matched to [ntj]. Therefore, left with a DPLACE placeholder for now [x03] (26 May 2016)",Australia
+B127,Ooldea,-30.38,131.81,anta1253,Ooldea (B127),xd972,,1941,,,-30.38,131.81,Original,"Note 8Feb2018: Changed to anta1253, based on comment by HH (""Speech at Ooldea (a station) was a mix of dialects from people from different dialects and multidialectal people mainly Pitjantjatjara [pjt], but also Antakarinya [ant]. Very strange to attribute Berndt & Berndt to Wirangu"") and after looking into maps of Berndts research location. Some uncertainty remains.",Australia
+B128,Paakintji,-32.4,142.25,darl1243,Barkindji (B128),xd973,Barkindji,1890,,,-32.4,142.25,Original,,Australia
+B129,Kaurna,-34.56,138.4,kaur1267,Kaurna (B129),xd974,Karuna,1840,,,-34.56,138.4,Original,,Australia
+B131,Yaraldi,-35.06,139.29,narr1259,Jaralde (B131),xd975,Jaralde,1850,,,-35.06,139.29,Original,,Australia
+B132,Mirniny,-34.95,117.81,ngad1258,Mineng (B132),xd976,Mirniny; Mineng; Mount Barker Tribe; Minang; Noongar,1850,,,-34.95,117.81,Original,"Note 8Feb2018: Leaving for now, despite HH comment: ""HH: The vocabulary (""Minang"") is usually attributed to the language Nyungar [nys]. Have no idea why the paper is connected to Ngadjunmaya."". KK looked into this case in depth, checked with C. Bowern before settling on this language match. Certainly still some uncertainty, though, so with more evidence could be changed.",Australia
+B133,Tjapwurong,-35.86,141.38,djab1234,Tjapwurong (B133),xd977,,1850,,,-35.86,141.38,Original,,Australia
+B134,Bunurong,-38.48,145.23,woiw1237,Bunurong (B134),xd978,,1850,,,-38.93,145.07,Revised,,Australia
+B135,Kurnai,-37.59,147.42,gana1278,Kurnai (B135),xd979,,1850,,,-37.59,147.42,Original,,Australia
+B136,Tasmanians (southeastern),-42.62,147.49,sout1439,Tasmanians (eastern) (B136),xd980,Palawa; Tasmanians (southern); Tasmanians (eastern); Tasmanians (East Coast),1830,,,-42.62,147.49,Original,,Australia
+B168,Coast Miwok,38.24,-122.88,coas1301,Coast Miwok (B168),xd983,,1850,,,38.24,-122.88,Original,,Southwestern U.S.A.
+B190,Guaicura,25,-111.54,guai1237,Guaicura (B190),xd985,Guaycura,1760,,,25,-111.54,Original,,Mexico
+B203,Kawich Mountain Shoshoni,37.92,-116.45,west2622,Kawich Mountain Shoshoni (B203),xd988,,1860,,,37.92,-116.45,Original,,Southwestern U.S.A.
+B205,Mono Lake Northern Paiute,38.11,-118.45,sout2967,Mono Lake Paiute (B205),xd989,Kutzadika'a; Mono Lake Paiute; Kutzadika,1870,,,38.11,-118.45,Original,,Southwestern U.S.A.
+B209,Timponogas,40.22,-111.81,utee1244,Ute-timanogas (B209),xd991,Timponogas Ute; Ute-timanogas; Ute-timpanogas; Ute-timinogas,1860,,,40.22,-111.81,Original,,Southwestern U.S.A.
+B212,Wadatkuht,40.27,-120.44,sout2967,Honey Lake Paiute (B212),xd992,Honey Lake Paiute,1870,Northern Paiute (NR13),NR13,40.27,-120.44,Original,,Southwestern U.S.A.
+B219,North Fork Mono,37,-119.07,mono1275,North Fork Mono Paiute (B219),xd993,Mono (North Fork); Mono-North Fork Paiute; Norfolk Mono,1860,,,37,-119.07,Original,,Southwestern U.S.A.
+B223,Bear Creek Northern Paiute,43.94,-120.49,nort1551,Bear Creek Paiute (B223),xd994,Bear Creek Paiute,1870,,,43.94,-120.49,Original,,Northwestern U.S.A.
+B215,Spring Valley Shoshoni,39.19,-114.48,west2622,Spring Valley Shoshoni (B215),xd995,Spring Valley,1870,,,39.19,-114.48,Original,,Southwestern U.S.A.
+B224,Antelope Valley Shoshoni,40.19,-114.24,west2622,Antelope Valley Shoshoni (B224),xd995,Spring Valley; Antelope Valley Shoshoni,1860,,,40.19,-114.24,Original,,Southwestern U.S.A.
+B272,Chehalis,46.87,-123.67,lowe1427,Chehalis (B272),xd997,,1880,,,46.87,-123.67,Original,,Northwestern U.S.A.
+B293,Gitxsan,55.65,-128.06,gitx1241,Gitksan (B293),xd998,Gitksan,1880,,,55.65,-128.06,Original,,Western Canada
+B294,Koniag,57.93,-153.16,koni1262,Koniag (B294),xd999,,1840,,,57.93,-153.16,Original,"1Oct2018 - change to dialect and language mapping from beri1255 (no longer exists) to koni1262 (dialect of language paci1278) following update to Glottolog version 3.3.2. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Subarctic America

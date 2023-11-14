@@ -1,0 +1,8 @@
+{
+    "id": "dplace-dataset-binford",
+    "title": "D-PLACE dataset derived from Binford 2001 'Constructing Frames of Reference'",
+    "description": "The Binford Hunter-Gatherer dataset describes cultural practices for 339 hunter-gatherer groups. Approximately two-thirds of the societies described by Binford are also described in the Ethnographic Atlas. However, the Binford database includes a number of societies not in the Ethnographic Atlas, including many in Australia and northern North America.",
+    "license": "CC-BY-NC-4.0",
+    "url": null,
+    "citation": "Binford, L. 2001. Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Hunter-gatherer and Environmental Data Sets. University of California Press"
+}
